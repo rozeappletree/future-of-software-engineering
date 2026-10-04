@@ -1,5 +1,25 @@
 # `future-of-software-engineering`
 
+## Slide Presentations
+
+### AI Model Development
+
+#### For Professionals
+- [The Future of AI Model Development: Best Talks of 2026](./slides/future-ai-model-development-professionals.html)
+
+#### For Students
+- [The Future of AI Model Development: Student Edition (2026)](./slides/future-ai-model-development-student.html)
+
+### Software Engineering
+
+#### For Professionals
+- [The Future of Software Engineering: Best Talks of 2026](./slides/future-software-engineering-professionals.html)
+
+#### For Students
+- [The Future of Software Engineering: Student Edition](./slides/future-software-engineering-student.html)
+
+---
+
 ## Quick Index
 
 - [1. The Augmented Forest](./talks/01-augmented-forest.html) — Kent Beck
@@ -22,9 +42,9 @@ Here's the table with only 2026 talks. Karpathy's 2025 talk is the only one remo
 
 | # | Talk | Speaker | Event (date) | Link | Link type |
 |---|---|---|---|---|---|
-| 1 | The Augmented Forest | Kent Beck | SPLASH 2026 keynote (Oct 3–9) | [splashcon.org](https://2026.splashcon.org/details/splash-2026-splash-keynotes/1/The-Augmented-Forest) | Event page (recor[...]
+| 1 | The Augmented Forest | Kent Beck | SPLASH 2026 keynote (Oct 3–9) | [splashcon.org](https://2026.splashcon.org/details/splash-2026-splash-keynotes/1/The-Augmented-Forest) | Event page (reco[...]
 | 2 | In Conversation with Boris Cherny | Boris Cherny (Anthropic) | CHM Live (Sept 23) | [computerhistory.org](https://computerhistory.org/?p=35032) | Event page + video |
-| 3 | AI Engineer World's Fair talks (Coding Agents, Harness Engineering, etc.) | Angie Jones, Raymond Weitekamp, Talha Sheikh, others | AIE World's Fair (June 29–July 2) | [ai.engineer](https://[...]
+| 3 | AI Engineer World's Fair talks (Coding Agents, Harness Engineering, etc.) | Angie Jones, Raymond Weitekamp, Talha Sheikh, others | AIE World's Fair (June 29–July 2) | [ai.engineer](https:/[...]
 | 4 | Software Engineering at the Tipping Point | Google | Google I/O (May 19–20) | [YouTube search](https://www.youtube.com/results?search_query=Software+engineering+at+the+tipping+point+Google[...]
 | 5 | KotlinConfersations '26 | Jake Wharton | KotlinConf (May) | [YouTube search](https://www.youtube.com/results?search_query=Jake+Wharton+KotlinConfersations+26) · [Recap](https://proandroidde[...]
 | 6 | Boris Cherny at AI Ascent | Boris Cherny with Lauren Reeder | Sequoia AI Ascent (May) | [YouTube search](https://www.youtube.com/results?search_query=Boris+Cherny+Sequoia+AI+Ascent+2026) · [...]
